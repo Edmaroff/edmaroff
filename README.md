@@ -69,8 +69,48 @@
  <details open>
   <summary>Проекты</summary>
    <ul>
-    <li><a href="https://github.com/Edmaroff/retail-order-api">API Сервис заказа товаров для розничных сетей</a></li> 
+    <li><a href="https://github.com/Edmaroff/retail-order-api">API Сервис заказа товаров для розничных сетей</a></li>
+     <details>
+      <summary>Описание</summary>
+       <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;API-сервис для автоматизации закупок в розничных сетях. Покупатели могут просматривать и заказывать товары, а продавцы — управлять своими магазинами и товарами через API.</p>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;Задача:</b>
+        <ul><ul>
+         <li>Разработать backend-часть сервиса заказа товаров для розничных сетей на Django Rest Framework</li>
+        </ul></ul>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;Результаты:</b>
+        <ul><ul>
+         <li>Реализовал регистрацию пользователей через Djoser с аутентификацией по JWT токену, включая возможность регистрации через Google и Github</li>
+         <li>Создал API views для удобного взаимодействия клиентов и продавцов</li>
+         <li>Внедрил асинхронный импорт товаров продавца с использованием Celery</li>
+         <li>Подготовил API документацию к проекту с использованием Postman</li>
+         <li>Улучшил админку с помощью django-baton</li>
+         <li>Докеризовал проект для удобного развертывания</li>
+         <li>Покрыл код тестами с использованием Pytest</li>
+        </ul></ul>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;<u>Используемые технологии:</u></b>
+        <ul><ul>
+         <li>Python, Django, Django REST framework, Celery, Redis, Djoser, social_django, Imagekit, Pytest, django-baton</li>
+        </ul></ul>&nbsp;
+     </details>    
     <li><a href="https://github.com/Edmaroff/Basics_Python-Course_Work">Резервное копирование</a></li> 
+     <details>
+      <summary>Описание</summary>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;<u>Задача:</u></b>
+        <ul><ul>
+         <li>Написать программу для резервного копирования фотографий с профиля пользователя vk в облачное хранилище Яндекс Диск</li>
+        </ul></ul>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;<u>Результаты:</u></b>
+        <ul><ul>
+         <li>Реализовал класс для сохранения фотографий из профиля и альбомов VK, с максимальным разрешением, в качестве названий файлов использовал количество лайков</li>
+         <li>Создал класс для загрузки фотографий в созданную папку Яндекс Диска</li>
+         <li>Выполнил сохранение информации по фотографиям в json-файл</li>
+         <li>Сделал прогресс-бар для отслеживания процесса программы с помощью библиотеки tqdm</li>
+        </ul></ul>
+       <b>&nbsp;&nbsp;&nbsp;&nbsp;<u>Используемые технологии:</u></b>
+        <ul><ul>
+         <li>Python, REST API Яндекс Диск/VK, tqdm</li>
+        </ul></ul>&nbsp;
+     </details>
    </ul>
  </details>
 
