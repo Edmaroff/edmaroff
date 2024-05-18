@@ -8,7 +8,7 @@
 
 
 
----
+<hr>
 <h3 align="left">💡 Технлогии и Инструменты:</h3>
 <a href="https://www.python.org/" title='Python' target="_blank"><img align="center" src="images/python.svg" width="36" height="36" alt="Python" hspace="2" /></a>
 <a href="https://ru.wikipedia.org/wiki/SQL" title="Structured Query Language — язык управления базами данных для реляционных баз данных." target="_blank"><img align="center" src="images/sql.png" width="36" height="36" alt="SQL" hspace="2" /></a>
@@ -28,7 +28,7 @@
 
 
 
----
+<hr>
 <h3 align="left">👨‍🎓 Пройденные курсы:</h3>
 
 | Ссылка                                                                  |Название                                                        |
@@ -63,7 +63,7 @@
 
 
 
----
+<hr>
 <h3 align="left">👨‍💻 Мои работы:</h3>
 
  <details open>
@@ -203,13 +203,7 @@
 
 
 
-<!-- ---
-<h3 align="left"><a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img src="images/codewars.svg" alt="Codewars" width="20" /></a>  Codewars:</h3>
-<a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img align="center" src="https://www.codewars.com/users/Edmaroff/badges/large" alt="Codewars rank" /></a>  -->
-
-
-
----
+<hr>
 <h3 align="left">📞 Связаться со мной:</h3>
 <p align="left">
  <a href="https://t.me/ed_tatarnikov" title='Telegram' target="_blank"><img align="center" src="images/telegram.svg" alt="Telegram" width="40" hspace="3" /></a>
@@ -218,8 +212,8 @@
 
 
 
----  
-<h3 align="left">📈 GitHub статистика:</h3>
+<hr> 
+<h3 align="left">📈 GitHub:</h3>
 <table>
   <tr>
     <td>
@@ -231,4 +225,14 @@
   </tr>
 </table>
 
+
+
+
+<hr>
+<h3 align="left"><a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img src="images/codewars.svg" alt="Codewars" width="20" /></a>  Codewars:</h3>
+<a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img align="center" src="https://www.codewars.com/users/Edmaroff/badges/large" alt="Codewars rank" /></a> 
+
+
+
+<hr>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Edmaroff&style=flate&color=blue" alt=""></p>
