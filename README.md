@@ -227,10 +227,10 @@
 
 
 
-
+<!-- ---
 <hr>
 <h3 align="left"><a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img src="images/codewars.svg" alt="Codewars" width="20" /></a>  Codewars:</h3>
-<a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img align="center" src="https://www.codewars.com/users/Edmaroff/badges/large" alt="Codewars rank" /></a> 
+<a href="https://www.codewars.com/users/Edmaroff" title='Codewars' target="_blank"><img align="center" src="https://www.codewars.com/users/Edmaroff/badges/large" alt="Codewars rank" /></a> -->
 
 
 
