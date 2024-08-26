@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Эдуард Татарников </h1>
-<p align="center"> Я начинающий Backend-разработчик на Python.  
+<p align="center"> Я Backend-разработчик на Python.  
 Мне нравится писать код на Python и я постоянно учусь делать это лучше! 😎</p>
 
 
