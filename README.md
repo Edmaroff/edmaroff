@@ -25,7 +25,9 @@
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank"><img align="center" src="images/pycharm.svg" width="35" height="35" alt="PyCharm" hspace="3" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code" target="_blank"><img align="center" src="images/vscode.svg" width="35" height="35" alt="VSC" hspace="3" /></a>
 <a href="https://git-scm.com/" title="Postman" target="_blank"><img align="center" src="images/postman.svg" width="36" height="36" alt="Postman" hspace="3" /></a>
-
+<!--
+Основной стек: Python • SOLID • GIT • GitHub • Django • Django Rest Framework • REST API • PostgreSQL • SQLite • SQLAlchemy • AsyncPG • SQL • Redis • Asyncio • Pytest • CI/CD • Linux • Docker • Celery • Nginx • Djoser • Typing • Loguru • ImageKit • Social_django • Aiocron • tqdm
+-->
 
 
 <hr>
